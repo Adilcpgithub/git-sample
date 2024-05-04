@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 this work i am doing in master
 =======
-this is work  i am did this in feature is my branch now cool
+this is work  i am did this iakjsdghkajhgkan feature is my branch now cool
 
 >>>>>>> feature
