@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-this sample i am doinsssssssssg in by making master is the brach
-=======
-here also feature isirghqahdqehrs the brach now 
-
-
->>>>>>> feature
+hhhhh

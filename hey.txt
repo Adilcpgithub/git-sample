@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-this work i am doing in master
-esfhfk;larjs;klahsklha;
-this is work  ghajsgajkhgahi am did this iakjsdghkajhgkan feature is my branch now cool
-=======
-ddd<<<<<<< HEAD
-this work i am doingklFHKALDG;lk in master
-=======hlsdgarhsdgkasdg;asda;vrskdghlsdEWKLG;HKL
-this is work  i am did this in feature is my branch now cool
->>>>>>> feature
-
->>>>>>> feature
+new file
