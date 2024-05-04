@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this sample i am doing in by making master is the brach
+=======
+here also feature is the brach now 
+
+
+>>>>>>> feature
